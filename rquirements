@@ -1,0 +1,45 @@
+parking lot owner
+=================
+
+manage parking lots (n number)
+vehicle -> parking gate -> ticket is issued to owner -> owner goes and parks the vehicle.
+after payment -> receipt is generated (at the exit gate).
+
+reports like revenue etc.
+
+==>
+
+50 rupees per hour  of pricing per parking space.
+
+Rahul
+=====
+1. p1 -> 1..100 (ps1 .. ps100)
+2. p2 -> 1..50 (ps1 .. ps50)
+3. p3 -> ...
+
+tickets
+=======
+parking space Id
+
+
+receipts (invoice)
+==================
+150
+
+transactions
+============
+
+customer
+========
+name
+mobile
+vehicle number
+
+
+
+
+ToDo:
+====
+1. check for auto generation of createdAt and updatedAt.
+2. add proper indexing at later stage.
+
